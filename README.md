@@ -1,1 +1,1 @@
-# Laba3_Calc
+# Laba3_Calc | Roman Li
